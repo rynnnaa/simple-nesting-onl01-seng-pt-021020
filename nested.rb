@@ -1,4 +1,3 @@
-
 def hopper
 	programmer_hash = 
  		{
@@ -15,6 +14,8 @@ def hopper
           :languages => ["C"]
         }
      }
+     
+     programmer_hash[:known_for => "Object Orientation", :languages => "Smalltalk", "LISP"]
 
 
 end
