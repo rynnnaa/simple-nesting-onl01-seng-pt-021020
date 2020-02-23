@@ -15,7 +15,7 @@ def hopper
         }
      }
      
-     programmer_hash{[:known_for => "Object Orientation", :languages => "Smalltalk", "LISP"]}
+     programmer_hash{[:known_for] => "Object Orientation", [:languages] => "Smalltalk", "LISP"]}
      puts programmer_hash
 
 
