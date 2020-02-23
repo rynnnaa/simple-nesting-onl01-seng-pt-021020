@@ -14,9 +14,7 @@ def hopper
           :languages => ["C"]
         }
      }
-     
-     programmer_hash[:known_for] => "Object Orientation", [:languages] => "Smalltalk", "LISP"
-     puts programmer_hash
+     programmer_hash
 
 
 end
